@@ -197,14 +197,7 @@ if st.checkbox("Apply theme to this page"):
         
         
         
-import streamlit as st
 
-st.set_page_config(
-    page_title="Open-page",
-    page_icon="🥝",
-    layout="centered",
-    initial_sidebar_state="expanded",
-)
 st.markdown("""
 # open-page
 Language : [English](https://main-page.streamlit.app/)  
