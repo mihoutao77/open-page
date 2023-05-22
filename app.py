@@ -201,24 +201,25 @@ if st.checkbox("Apply theme to this page"):
 st.markdown("""
 # Introduce
 Language : English \n
-Fascinating tool to Make the UI more beautiful!  
+Fascinating tool to Make the UI more beautiful! \n 
 open-map
 
 # Basic functions
 
 ## color
 Set your theme colors.    
-We can keep trying, and page colors can create many possibilities, just if we want to.
+We can keep trying, and page colors can create many possibilities, just if we want to.\n
 Let's go on.✨
   
 
 
 ## How to use UI
-First,Click box🍇（Apply theme to this page.）
+First,Click box🍇（Apply theme to this page.）\n 
 Then click the button ( generate a random color scheme 🎲)
 
+
 Click the button again , move the slider again , then select a theme to read.
-Now you can create the UI theme you want。
+Now you can create the UI theme you want.
 It is a slider that can be adjusted in increments of 0.01.
 The higher the number, the stronger the brightness of the color.
 Free to explore.
@@ -228,9 +229,9 @@ You can create your own Color theme.
 Why not read  article on a color that makes you feel comfortable?🧸
 
 ### Example
-Reading a good book， like and many noble people talk.   ---Goethe
-Who to idle away one's time， youth will Ken color， life will abandon them.  ---Hugo
-The real agile is a valuable thing.   --- Bacon
+Reading a good book， like and many noble people talk.  -Goethe
+Who to idle away one's time， youth will Ken color， life will abandon them. -Hugo
+The real agile is a valuable thing.  -Bacon
 
 
 
