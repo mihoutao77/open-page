@@ -58,7 +58,7 @@ if 'preset_color' not in st.session_state or 'backgroundColor' not in st.session
     set_color('textColor', default_color.textColor)
 
 
-st.title("UI Page")
+st.title("Streamlit color theme editor")
 
 
 def on_preset_color_selected():
@@ -71,7 +71,7 @@ def on_preset_color_selected():
 
 st.selectbox("Preset colors", key="preset_color", options=range(len(preset_colors)), format_func=lambda idx: preset_colors[idx][0], on_change=on_preset_color_selected)
 
-if st.button("🎨Generate a random color scheme 🎲"):
+if st.button("🎨 Generate a random color scheme 🎲"):
     primary_color, text_color, basic_background, secondary_background = util.generate_color_scheme()
     set_color('primaryColor', primary_color)
     set_color('backgroundColor', basic_background)
@@ -112,6 +112,7 @@ secondary_background_color = color_picker('Secondary background color', key="sec
 st.header("WCAG contrast ratio")
 st.markdown("""
 Check if the color contrasts of the selected colors are enough to the WCAG guidelines recommendation.
+For the details about it, see some resources such as the [WCAG document](https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum.html) or the [MDN page](https://developer.mozilla.org/en-US/docs/Web/Accessibility/Understanding_WCAG/Perceivable/Color_contrast).""")
 
 def synced_color_picker(label: str, value: str, key: str):
     def on_change():
@@ -181,7 +182,6 @@ if st.checkbox("Apply theme to this page"):
     fragments.sample_components("body")
     with st.sidebar:
         fragments.sample_components("sidebar")
-
 
         
         
