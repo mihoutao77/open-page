@@ -71,7 +71,7 @@ def on_preset_color_selected():
 
 st.selectbox("Preset colors", key="preset_color", options=range(len(preset_colors)), format_func=lambda idx: preset_colors[idx][0], on_change=on_preset_color_selected)
 
-if st.button("🎨 Generate a random color scheme 🎲🥝"):
+if st.button("🎨🥝 Generate a random color scheme 🎲"):
     primary_color, text_color, basic_background, secondary_background = util.generate_color_scheme()
     set_color('primaryColor', primary_color)
     set_color('backgroundColor', basic_background)
@@ -163,7 +163,7 @@ streamlit run app.py \\
 """)
 
 
-if st.checkbox("Apply theme to this page🥝"):
+if st.checkbox("🥝Apply theme to this page"):
     st.info("Select 'Custom Theme' in the settings dialog to see the effect")
 
     def reconcile_theme_config():
