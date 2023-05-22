@@ -112,7 +112,7 @@ secondary_background_color = color_picker('Secondary background color', key="sec
 st.header("WCAG contrast ratio")
 st.markdown("""
 Check if the color contrasts of the selected colors are enough to the WCAG guidelines recommendation.
-For the details about it, see some resources such as the [WCAG document](https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum.html) or the [MDN page](https://developer.mozilla.org/en-US/docs/Web/Accessibility/Understanding_WCAG/Perceivable/Color_contrast).""")
+GO on""")
 
 def synced_color_picker(label: str, value: str, key: str):
     def on_change():
@@ -213,8 +213,8 @@ Let's go on.✨
 
 
 ## how to use UI
-First,Click box🍇（Apply theme to this page.）\n 
-Then click the button ( Generate a random color scheme 🎲)
+First,Click box🍇（Apply theme to this page🥝）\n 
+Then click the button (🎨🥝Generate a random color scheme 🎲)
 
 
 Click the button again , move the slider again , then select a theme to read. \n 
