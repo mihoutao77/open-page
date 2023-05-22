@@ -199,12 +199,12 @@ if st.checkbox("Apply theme to this page"):
         
 
 st.markdown("""
-# Introduce
+# 📔Introduce
 Language : English \n
 Fascinating tool to Make the UI more beautiful! \n 
 open-map
 
-# Basic functions
+# 📔Basic functions
 
 ## color
 Set your theme colors.  \n   
@@ -227,7 +227,7 @@ The higher the number, the stronger the brightness of the color. \n
 Free to explore.
 
 ## custom 
-You can create your own Color theme.  
+You can create your own Color theme. \n   
 Why not read  article on a color that makes you feel comfortable?🧸
 
 ### example
@@ -242,7 +242,7 @@ The real agile is a valuable thing.  (Bacon)
 
 
 
-# Models
+# 📔Models
 In the design of machine learning models,  
 researchers need to consider factors such as the quality and quantity of data,
 the complexity and efficiency of algorithms,
@@ -259,7 +259,7 @@ and the interpretability of models.
 
 
 
-# View
+# 📔View
 🤓The beauty of machine learning refers to the process of realizing technological innovation 
    and artistic creation through machine learning technology.   \n 
 🤓With the development of artificial intelligence technology in recent years,
@@ -293,7 +293,7 @@ so that others can easily understand and modify the code,
 and finally achieve a beautiful functions and services.
 
 
-# Decision support
+# 📔Decision support
 Traditional data labeling methods require manual processing and analysis,
 while machine learning can automate this process,
 quickly find out some laws and patterns,
@@ -307,7 +307,7 @@ nd perform prediction and decision support.
 
 
 
-# Aesthetic project
+# 📔Aesthetic project
 
 🍉Machine learning aesthetics will also have a positive impact on
   cultural heritage protection and digital inheritance. \n 
