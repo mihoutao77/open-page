@@ -201,19 +201,25 @@ if st.checkbox("Apply theme to this page"):
 st.markdown("""
 # open-page
 Language : [English](https://www.bing.com/translator)  
-Fascinating tool to convert images into pixel art!  
-[open-map](https://main-page.streamlit.app)
+Fascinating tool to Make the UI more beautiful!  
+[open-map](https://open-page.streamlit.app)
 
 # Basic functions
 ## colorpallet
-This site converts colors.  
+Set your custom colors.  
 Select the color palette to use when converting colors.  
-Pyxel is the color used in the library called [Pyxel](https://github.com/kitao/pyxel).  
+We can keep trying, and page colors can create many possibilities, just if we want to.
+Let's get started.✨
+  
 
 
 ## ratio
-This is a slider that can be adjusted in increments of 0.01. The lower the number, the larger the dot.
-
+Checkbox▢（Apply theme to this page.）
+Then click the button ( generate a random color scheme 🎲)
+Click the button again to move the slider or select a theme.
+Now you can create the UI theme you want。
+It is a slider that can be adjusted in increments of 0.01.
+The higher the number, the stronger the brightness of the color.
 
 ## Custom Pallet
 You can create your own ColorPallet.  
