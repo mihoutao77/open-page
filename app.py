@@ -200,7 +200,7 @@ if st.checkbox("Apply theme to this page"):
 
 st.markdown("""
 # Introduce
-Language : English 
+Language : English \n
 Fascinating tool to Make the UI more beautiful!  
 open-map
 
