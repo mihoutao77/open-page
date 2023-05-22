@@ -207,7 +207,7 @@ open-map
 # Basic functions
 
 ## color
-Set your theme colors.    
+Set your theme colors.  \n   
 We can keep trying, and page colors can create many possibilities, just if we want to.\n
 Let's go on.✨
   
@@ -218,10 +218,12 @@ First,Click box🍇（Apply theme to this page.）\n
 Then click the button ( generate a random color scheme 🎲)
 
 
-Click the button again , move the slider again , then select a theme to read.
+Click the button again , move the slider again , then select a theme to read. \n 
+
 Now you can create the UI theme you want.
 It is a slider that can be adjusted in increments of 0.01.
-The higher the number, the stronger the brightness of the color.
+The higher the number, the stronger the brightness of the color. \n 
+
 Free to explore.
 
 ## custom 
@@ -259,13 +261,13 @@ and the interpretability of models.
 
 # View
 🤓The beauty of machine learning refers to the process of realizing technological innovation 
-   and artistic creation through machine learning technology.
+   and artistic creation through machine learning technology.   \n 
 🤓With the development of artificial intelligence technology in recent years,
-   the beauty of machine learning has gradually become a hot topic.
+   the beauty of machine learning has gradually become a hot topic.   \n 
 🤓The beauty of machine learning can be applied in many fields,
-   such as music creation, machine painting, film and television production, etc.
+   such as music creation, machine painting, film and television production, etc.   \n 
 🤓Through the analysis and learning of machine learning algorithms,
-   computers can automatically generate artwork or art reviews.
+   computers can automatically generate artwork or art reviews.   \n 
 🤓so as to achieve certain artistic effects.
 
 
@@ -298,19 +300,22 @@ quickly find out some laws and patterns,
 nd perform prediction and decision support.
 
 
-##for example
+## for example
 🧑‍⚕️In the medical field,
-machine learning can assist doctors in disease diagnosis and treatment options,
-and improve patient outcomes.
+   machine learning can assist doctors in disease diagnosis and treatment options,
+   and improve patient outcomes.
+
+
 
 # Aesthetic project
+
 🍉Machine learning aesthetics will also have a positive impact on
-  cultural heritage protection and digital inheritance.
+  cultural heritage protection and digital inheritance. \n 
 🍉Through machine learning algorithms,
    we can digitally restore and repair artworks in cultural heritage,
-   thereby protecting and inheriting the precious cultural heritage of mankind.
+   thereby protecting and inheriting the precious cultural heritage of mankind. \n 
 🍉For example, the digital mural project of Dunhuang Mogao Grottoes,
-   the digital museum project, etc.
+   the digital museum project, etc. \n 
 
 ## welcome
 
