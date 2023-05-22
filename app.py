@@ -199,10 +199,10 @@ if st.checkbox("Apply theme to this page"):
         
 
 st.markdown("""
-# open-page
+# Introduce
 Language : [English](https://www.bing.com/translator)  
 Fascinating tool to Make the UI more beautiful!  
-[open-map](https://open-page.streamlit.app)
+open-map
 
 # Basic functions
 ## colorpallet
@@ -213,56 +213,101 @@ Let's get started.✨
   
 
 
-## ratio
-Checkbox▢（Apply theme to this page.）
+## How to use UI
+Checkbox🍇（Apply theme to this page.）
 Then click the button ( generate a random color scheme 🎲)
 Click the button again to move the slider or select a theme.
 Now you can create the UI theme you want。
 It is a slider that can be adjusted in increments of 0.01.
 The higher the number, the stronger the brightness of the color.
+Free to explore.
 
 ## Custom Pallet
-You can create your own ColorPallet.  
+You can create your own Color theme.  
 Enter the colors you want to add to the palette in the table using color codes.  
 The colors entered in the table will be displayed on the right side.  
 It is easier to select a color from the color picker above the table, copy the color code, and enter it.  
 Color picker is not supported.
+Why not read this article on a topic that makes you feel comfortable?🧸
 
 
-## Tweet
-A button to tweet to Twitter.  
-It does not support attaching images.  
-When attaching an image, please copy the image or download the image and attach it.  
-If you do not turn off the tracker blocker, it may not be displayed.  
 
-# More Options
-## Anime Filter
-Add edges.  
+# Models
+In the design of machine learning models,  
+researchers need to consider factors such as the quality and quantity of data,
+the complexity and efficiency of algorithms,
+and the interpretability of models.
 
 
-## No Color Convert
-Disables the color palette.  
+## For example
+🔭In the field of natural language processing,
+   researchers have developed a variety of language models,
+   including bag-of-words models, recurrent neural networks (RNN),
+   and transformer models, among others.
+🔭The design of these models needs to take into account the structure and laws of the language,
+   as well as the distribution of data and the size of the sample.
 
 
-## decrease Color
-Decrease color.  
-Basically used with ``No Color Convert``.
 
-## threhsold
-Value of AnimeFilter (edge processing).  
-The smaller the value, the more edges are processed.  
-### threhsold 1
-Specifies the amount of edges.
-### threhsold 2
-Specifies the length of edges.
+# View
+🤓The beauty of machine learning refers to the process of realizing technological innovation 
+   and artistic creation through machine learning technology.
+🤓With the development of artificial intelligence technology in recent years,
+   the beauty of machine learning has gradually become a hot topic.
+🤓The beauty of machine learning can be applied in many fields,
+   such as music creation, machine painting, film and television production, etc.
+🤓Through the analysis and learning of machine learning algorithms,
+   computers can automatically generate artwork or art reviews.
+🤓so as to achieve certain artistic effects.
 
-# Experimental Features
-This is not an official feature yet, so there may be bugs or errors.  
-## Pixel Edge
-Generate edges with dots.
 
-# Color Sample
-Displays the colors in the default color palette  
+
+
+## Code art
+The aesthetics of machine learning code refers to aspects, 
+such as code readability, simplicity, modularity, and portability.
+
+
+## Comment of code
+In addition, code comments are also very important.
+
+
+### part 1
+Comments should clearly explain what the code does and how it is implemented 
+so that others can understand and modify the code.
+
+### part 2
+In short, the code aesthetics of machine learning is to consider the readability,
+simplicity, modularity and portability of the code while implementing the machine learning algorithm,
+so that others can easily understand and modify the code,
+and finally achieve a beautiful functions and services.
+
+
+# Decision support
+Traditional data labeling methods require manual processing and analysis,
+while machine learning can automate this process,
+quickly find out some laws and patterns,
+nd perform prediction and decision support.
+
+
+##For example
+🧑‍⚕️In the medical field,
+machine learning can assist doctors in disease diagnosis and treatment options,
+and improve patient outcomes.
+
+# Aesthetic project
+🍉Machine learning aesthetics will also have a positive impact on
+  cultural heritage protection and digital inheritance.
+🍉Through machine learning algorithms,
+   we can digitally restore and repair artworks in cultural heritage,
+   thereby protecting and inheriting the precious cultural heritage of mankind.
+🍉For example, the digital mural project of Dunhuang Mogao Grottoes,
+   the digital museum project, etc.
+
+## welcome
+
+The future story should be awesome, so we welcome everyone to join👐
+
 """)        
         
         
