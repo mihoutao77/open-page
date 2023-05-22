@@ -58,7 +58,7 @@ if 'preset_color' not in st.session_state or 'backgroundColor' not in st.session
     set_color('textColor', default_color.textColor)
 
 
-st.title("Streamlit color theme editor")
+st.title("UI theme editor")
 
 
 def on_preset_color_selected():
