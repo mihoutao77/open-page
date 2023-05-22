@@ -213,7 +213,7 @@ Let's go on.✨
   
 
 
-## How to use UI
+## how to use UI
 First,Click box🍇（Apply theme to this page.）\n 
 Then click the button ( generate a random color scheme 🎲)
 
@@ -224,14 +224,14 @@ It is a slider that can be adjusted in increments of 0.01.
 The higher the number, the stronger the brightness of the color.
 Free to explore.
 
-## Custom 
+## custom 
 You can create your own Color theme.  
 Why not read  article on a color that makes you feel comfortable?🧸
 
-### Example
-Reading a good book， like and many noble people talk.  -Goethe
-Who to idle away one's time， youth will Ken color， life will abandon them. -Hugo
-The real agile is a valuable thing.  -Bacon
+### example
+Reading a good book， like and many noble people talk.  (Goethe)  \n 
+Who to idle away one's time， youth will Ken color， life will abandon them. (Hugo) \n 
+The real agile is a valuable thing.  (Bacon)
 
 
 
@@ -247,7 +247,7 @@ the complexity and efficiency of algorithms,
 and the interpretability of models.
 
 
-## For example
+## for example
 🔭In the field of natural language processing,
    researchers have developed a variety of language models,
    including bag-of-words models, recurrent neural networks (RNN),
@@ -271,12 +271,12 @@ and the interpretability of models.
 
 
 
-## Code art
+## code art
 The aesthetics of machine learning code refers to aspects, 
 such as code readability, simplicity, modularity, and portability.
 
 
-### Comment of code
+### comment of code
 In addition, code comments are also very important.
 
 
@@ -298,7 +298,7 @@ quickly find out some laws and patterns,
 nd perform prediction and decision support.
 
 
-##For example
+##for example
 🧑‍⚕️In the medical field,
 machine learning can assist doctors in disease diagnosis and treatment options,
 and improve patient outcomes.
