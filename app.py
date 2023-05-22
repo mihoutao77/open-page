@@ -205,30 +205,37 @@ Fascinating tool to Make the UI more beautiful!
 open-map
 
 # Basic functions
-## colorpallet
-Set your custom colors.  
-Select the color palette to use when converting colors.  
+
+## color
+Set your theme colors.    
 We can keep trying, and page colors can create many possibilities, just if we want to.
-Let's get started.✨
+Let's go on.✨
   
 
 
 ## How to use UI
-Checkbox🍇（Apply theme to this page.）
+First,Click box🍇（Apply theme to this page.）
 Then click the button ( generate a random color scheme 🎲)
-Click the button again to move the slider or select a theme.
+
+Click the button again , move the slider again , then select a theme to read.
 Now you can create the UI theme you want。
 It is a slider that can be adjusted in increments of 0.01.
 The higher the number, the stronger the brightness of the color.
 Free to explore.
 
-## Custom Pallet
+## Custom 
 You can create your own Color theme.  
-Enter the colors you want to add to the palette in the table using color codes.  
-The colors entered in the table will be displayed on the right side.  
-It is easier to select a color from the color picker above the table, copy the color code, and enter it.  
-Color picker is not supported.
-Why not read this article on a topic that makes you feel comfortable?🧸
+Why not read  article on a color that makes you feel comfortable?🧸
+
+### Example
+Reading a good book， like and many noble people talk.   ---Goethe
+Who to idle away one's time， youth will Ken color， life will abandon them.  ---Hugo
+The real agile is a valuable thing.   --- Bacon
+
+
+
+
+
 
 
 
@@ -268,7 +275,7 @@ The aesthetics of machine learning code refers to aspects,
 such as code readability, simplicity, modularity, and portability.
 
 
-## Comment of code
+### Comment of code
 In addition, code comments are also very important.
 
 
