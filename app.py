@@ -200,9 +200,9 @@ if st.checkbox("Apply theme to this page"):
 
 st.markdown("""
 # open-page
-Language : [English](https://main-page.streamlit.app/)  
+Language : [English](https://www.bing.com/translator)  
 Fascinating tool to convert images into pixel art!  
-[open-map](https://page-store.streamlit.app/)
+[open-map](https://main-page.streamlit.app)
 
 # Basic functions
 ## colorpallet
