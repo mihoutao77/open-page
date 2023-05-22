@@ -215,7 +215,7 @@ Let's go on.✨
 
 ## how to use UI
 First,Click box🍇（Apply theme to this page.）\n 
-Then click the button ( generate a random color scheme 🎲)
+Then click the button ( Generate a random color scheme 🎲)
 
 
 Click the button again , move the slider again , then select a theme to read. \n 
